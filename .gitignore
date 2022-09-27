@@ -9,8 +9,8 @@ target/*
 /target
 .sts4-cache/
 .vscode/*.json
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 _site/
+.vscode/settings.json
